@@ -1,0 +1,1 @@
+docker build -t nonjosh/vue-cli:4.4.1
